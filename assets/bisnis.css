@@ -1,0 +1,160 @@
+.grey2 {
+    color: #666;
+}
+.pt5 {
+    padding-top: 5px;
+}
+.ln18 {
+    line-height: 18px;
+}
+.txt-oev-3 {
+    -webkit-line-clamp: 3;
+}
+.f13 {
+    font-size: 13px;
+}
+h5 .pa10 .ac{
+    text-align: center;
+    font-weight: inherit;
+    font-size: inherit;
+    display: inherit;
+}
+div {
+    display: block;
+}
+.gambarone {
+    position: relative;
+}
+.judulcover a {
+    margin-top: 0;
+    font-size: 18px;
+    color: #fff;
+    font-weight: 700;
+    padding: 15px;
+    line-height: 20px;
+    text-align: left;
+    display: block;
+    vertical-align: middle;
+    text-decoration: none;
+    position: absolute;
+}
+.ptb5 {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.plr15 {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.white {
+    color: #fff;
+}
+.bgblue {
+    background: #016fba;
+}
+.f16 {
+    font-size: 16px;
+}
+.pos_abs {
+    position: absolute;
+}
+.fbo{
+    font-weight: 700;
+}
+.bdrblue {
+    border-bottom: 3px solid #0097ff;
+}
+.blue {
+    color: #016fba;
+}
+.red {
+    color: #b9201f;
+}
+.p515 {
+    padding: 5px 15px;
+}
+.fthin {
+    font-weight: 300;
+}
+.f24 {
+    font-size: 24px;
+}
+a {
+    color:#204e6d;
+    text-decoration: none;
+}
+element.style {
+    width: 100%;
+    height: auto;
+}
+.al {
+    text-align: left!important;
+}
+img {
+    border: 0;
+
+}
+.cl2 {
+    clear : both!important;
+}
+.ovh {
+    overflow:hidden;
+}
+.pa15 {
+    padding: 15px;
+}
+.show {
+    display: block;
+}
+.btsquare {
+    width: 90px;
+    height: 90px;
+}
+.fr {
+    float: right;
+}
+.pos_rel {
+    position: relative;
+}
+.m-btsquare {
+    margin-right: 100px;
+}
+.hlover {
+    line-height: 20px;
+    vertical-align: middle;
+}
+.pa10 {
+    padding: 10px;
+}
+.ac {
+    text-align: center;
+}
+.mt20 {
+    margin-top: 20px;
+}
+.tagcload {
+    margin: 0 5px 15px 0;
+}
+.bdr8 {
+    border-top: 1px solid #e5e5e5;
+    border-bottom: 1px solid #fff;
+}
+.dip {
+    display: inline-block;
+}
+.lsi {
+    list-style: none;
+}
+.bgwhite {
+    background-color: #fff;
+}
+.mb20 {
+    margin-bottom: 20px;
+}
+.tagcload a {
+    padding: 5px 7px;
+    background: #e5e5e5;
+    color: #027dd1;
+    font-size: 16px;
+    transition: .5s linear;
+}
