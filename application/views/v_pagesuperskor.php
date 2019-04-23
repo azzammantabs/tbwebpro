@@ -102,6 +102,7 @@
 		</script>
 		<div class="row">
 		<div class="col-md-3">
+			<img alt="" style="float:right" decoding="async" src="https://tpc.googlesyndication.com/simgad/10669853947011387346">
 		</div>
 		
 		<div class="col-md-6">		
@@ -695,10 +696,11 @@
 			. All Right Reserved
 		</h5>		
 		</div>
+		<div class="col-md-3">
+			<img alt="" class="i-amphtml-fill-content i-amphtml-replaced-content" decoding="async" src="https://tpc.googlesyndication.com/simgad/6304947462290700655">
+		</div>
 		</div>	
 	</div>
-	</div>
-	<div class="col-md-3">
 	</div>
 </div>
 </body>

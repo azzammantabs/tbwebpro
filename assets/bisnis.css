@@ -1,3 +1,4 @@
+
 .grey2 {
     color: #666;
 }
@@ -157,4 +158,64 @@ img {
     color: #027dd1;
     font-size: 16px;
     transition: .5s linear;
+}
+.fa {
+    display: inline-block;
+    font : normal;
+    text-rendering: auto;
+}
+.fa-clock-o:before {
+    content: "\f017";
+}
+.fa-clock-o {
+    font-size: 105%;
+}
+.m7 {
+    margin-right: 7px;
+}
+div #swBox {    
+    font-family: "Open Sans",arial,sans-serif;
+}
+div #partDown {
+    width: 300px;
+    font-size: 12px;
+    background: #f2f4f5;
+    color: #222;
+}
+ul #partDownMenu {
+    list-style: none;
+    height: 36px;
+    padding: 0;
+}
+li .partDownMenuLi {
+    float: left;
+    cursor: pointer;
+    padding: 0 18px;
+    text-align: center;
+    color: #666;
+    font-size: 16px;
+}
+span .partDownMenuLiSpan {
+    display: block;
+    line-height: 30px;
+}
+#swBox .partDownContent {
+    border: 1px solid #ccc;
+}
+#swBox .clearfix {
+    zoom: 1;
+}
+#swBox .partDownContent .partDownContentHead {
+    border-color: #0f9949;
+}
+#swBox .partDownContentBodyTable {
+    background: #fff;
+    margin: 0;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    border-color: grey;
+    width: 100%;
+    font-size: 12px;
+    table-layout: fixed;
+    padding: 0 5px;
 }

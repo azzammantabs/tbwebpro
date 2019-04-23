@@ -102,6 +102,7 @@
 		</script>
 		<div class="row">
 		<div class="col-md-3">
+			<img  alt="" style="float:right" decoding="async" src="https://tpc.googlesyndication.com/simgad/18137421691978316009">
 		</div>
 		
 		<div class="col-md-6">		
@@ -183,15 +184,15 @@
 						<li sort="3">
 							<div class="fr btsquare pos_rel">
 								<a href="#" title="">
-								<img src="http://cdn2.tstatic.net/tribunnews/foto/bank/thumbnails2/markas-wto.jpg" height="100" width="130" alt="markas-wto.jpg">
+									<img src="http://cdn2.tstatic.net/tribunnews/foto/bank/thumbnails2/pembelian-saham-pnmim.jpg" class="shou2 bgwhite" height="90" width="120" alt="pembelian-saham-pnmim.jpg">
 								</a>
 							</div>
 							<div class="m-btsquare">
 								<h3 class="blue">
-									<a href="#">AS kalahkan China dalam Gugatan Tarif Kuota Impor Produk Pertanian di WTO</a>
+									<a href="#">BTN akuisi 30 persen saham anak PMN Senilai Rp. 114,3M</a>
 								</h3>
 								<div class="grey2 pt5 f13 ln18 txt-oev-3">
-									Kasus ini sendiri diprakarsai oleh pemerintahan Obama tetapi dengan cepat diambil oleh Lighthizer dalam dorongan pemerintahan Trump  terhadap China
+								Bank BTN memang menargetkan bisa memiliki anak usaha di bidang manajemen investasi.
 
 								</div>
 								<div class="grey pt5 dip">
@@ -211,15 +212,15 @@
 						<li sort="4">
 							<div class="fr btsquare pos_rel">
 								<a href="#" title=" ">
-								<img src="http://cdn2.tstatic.net/tribunnews/foto/bank/thumbnails2/markas-wto.jpg" height="100" width="130" alt="markas-wto.jpg">
+								<img src="http://cdn2.tstatic.net/tribunnews/foto/bank/thumbnails2/butik-emas-logam-mulia-antam_20180910_105200.jpg" height="100" width="130" alt="butik-emas-logam-mulia-antam_20180910_105200.jpg">
 								</a>
 							</div>
 							<div class="m-btsquare">
 								<h3 class="blue">
-									<a href="#">AS kalahkan China dalam Gugatan Tarif Kuota Impor Produk Pertanian di WTO</a>
+									<a href="#">Harga emas antam pagi ini Ditansaksikan stagnan di level Rp.656.000 per gram</a>
 								</h3>
 								<div class="grey2 pt5 f13 ln18 txt-oev-3">
-									Kasus ini sendiri diprakarsai oleh pemerintahan Obama tetapi dengan cepat diambil oleh Lighthizer dalam dorongan pemerintahan Trump  terhadap China
+									Harga emas Antam hari ini sama seperti harga yang dipatok pada perdagangan sehari sebelumnya.
 
 								</div>
 								<div class="grey pt5 dip">
@@ -687,11 +688,64 @@
 			. All Right Reserved
 		</h5>		
 		</div>
+		<div class="col-md-3">
+			<img alt="" class="i-amphtml-fill-content i-amphtml-replaced-content" decoding="async" src="https://tpc.googlesyndication.com/simgad/4007529090704478546">
+			 <div id="container_marker">
+			 	<div id="swBox">
+				 	<div id="partDown">
+					 	<ul id="partDownMenu">
+						 	<li class="partDownMenuLi">
+							 	<span class="partDownMenuLiSpan">Beli</span>
+							</li>
+							<li class="partDownMenuLi">
+								<span class="partDownMenuLiSpan">Jual</span>
+							</li>
+							<li class="partDownMenuLi">
+								<span class="partDownMenuLiSpan">Menang</span>
+							</li>
+						 	<li class="partDownMenuLi">
+							 	<span class="partDownMenuLiSpan">Kalah</span>
+							</li>
+						 </ul>
+						 <div class="partDownContent">
+							 <a href="#">PERSETUJUAN BERSAMA</a>
+							 <a href="#">Beli</a>
+						 </div>
+						 <div class="clearfix partDownContentBody">
+							 <table class="partDownContentBodyTable">
+								 <thead>
+									 <tr>
+										 <th>Saham</th>
+										 <th>Harga Komunitas</th>
+										 <th>Potensi</th>
+									 </tr>
+								 </thead>
+								 <tbody>
+									 <tr>
+										 <td><a href="#">Bw Plantation</a></td>
+										 <td>Rp.394.00</td>
+										 <td>+134.52%</td>
+									 </tr>
+									 <tr>
+										 <td><a href="#">Bank Rakyat Indonesia</a></td>
+										 <td>Rp.5950.00</td>
+										 <td>+64.36%</td>
+									 </tr>
+									 <tr>
+										 <td><a href="#">Vale Indonesia Tbk</a></td>
+										 <td>Rp.3895.00</td>
+										 <td>+26.87%</td>
+									 </tr>
+								 </tbody>
+							 </table>
+						 </div>
+					 </div>
+				 </div>
+			 </div>
+		</div>
 		</div>	
 	</div>
-	</div>
-	<div class="col-md-3">
-	</div>
+	</div>	
 </div>
 </body>
 <script>
